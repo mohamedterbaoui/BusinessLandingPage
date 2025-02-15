@@ -65,7 +65,7 @@ export const CallToAction = () => {
           ></motion.div>
           <div className="relative">
             <h2 className="text-5xl md:text-6xl max-w-sm mx-auto font-medium text-center tracking-tighter">
-              AI-driver SEO for everyone
+              Take your business to the next level
             </h2>
             <p className=" px-4 text-lg md:text-xl max-w-xs mx-auto text-white/70 text-center tracking-tight mt-5 ">
               Achieve clear, impactful results without the complexity

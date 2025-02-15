@@ -127,11 +127,11 @@ export const Features = () => {
     <section className="py-20 md:py-24">
       <div className="container">
         <h2 className="text-5xl md:text-6xl font-medium text-center tracking-tighter">
-          Elevate your SEO efforts.
+          Elevate your campaign efforts.
         </h2>
         <p className="text-white/70 text-lg md:text-xl max-w-2xl mx-auto tracking-tight text-center mt-5">
-          From small startups to large enterprises, our AI-driver tool has
-          revolutionized the way businesses approach SEO.
+          From small startups to global brands, we’ve revolutionized the way
+          businesses approach advertising and drive growth.
         </p>
         <div className="mt-10 flex flex-col lg:flex-row gap-3">
           {tabs.map((tab, tabIndex) => (

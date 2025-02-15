@@ -10,7 +10,7 @@ export const Footer = () => {
         <div className="flex flex-col lg:flex-row lg:items-center gap-8 ">
           <div className="flex gap-2 items-center lg:flex-1">
             <Logo className="h-6 w-6" />
-            <div className="font-medium">AI Startup Landing Page</div>
+            <div className="font-medium">Business landing page</div>
           </div>
 
           <div className="">
@@ -19,19 +19,19 @@ export const Footer = () => {
                 href="#"
                 className="text-white/70 hover:text-white text-xs md:text-sm transition"
               >
-                Features
+                Services
               </a>
               <a
                 href="#"
                 className="text-white/70 hover:text-white text-xs md:text-sm transition"
               >
-                Developers
+                Case Studies
               </a>
               <a
                 href="#"
                 className="text-white/70 hover:text-white text-xs md:text-sm transition"
               >
-                Company
+                Plans
               </a>
               <a
                 href="#"
@@ -43,7 +43,7 @@ export const Footer = () => {
                 href="#"
                 className="text-white/70 hover:text-white text-xs transition"
               >
-                Changelog
+                Contact
               </a>
             </nav>
           </div>
